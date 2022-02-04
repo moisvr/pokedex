@@ -1,0 +1,18 @@
+.search-form {
+    text-align: center;
+    width: 50%;
+    margin: 10px auto 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.search-form > h2 {
+    font-size: 2.6rem;
+    color: white;
+}
+.search-form input {
+    margin: 0 auto;
+    width: 80%;
+    padding: 0 5px;
+    border-radius: 10px;
+    display: block;
+}
